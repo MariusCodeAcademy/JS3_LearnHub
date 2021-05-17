@@ -7,3 +7,7 @@ function getTime() {
   return dataString + " " + timeString;
 }
 getTime();
+
+// create el
+const h4 = document.createElement("h4");
+h4.textContent = getTime();
