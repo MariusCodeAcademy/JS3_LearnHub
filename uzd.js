@@ -7,7 +7,7 @@
  *
  * 3. susikurti nauja branch html. ir dirbam tame branch
  * sukurti html struktura ir prjungti js ir css failus
- * // sukurti h1 antraste ir h4 mazesne antraste
+ *
  *
  * 4. prijungti html saka prie pagrindines master sakos (merge)
  *
