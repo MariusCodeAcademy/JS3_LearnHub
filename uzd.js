@@ -55,8 +55,10 @@
  * 22. pagrindinej sakoj js faile parasyti funkcija kuri parsiuncia 10 todo ir jsonPlaceholder
  * api ir juos atvaizduoti saraso pavidalu
  *
+ * 23 vieno komito metu sukurti diva su siek tiek stiliu kad matytusi, jo viduje turetu buti
+ * antraste h3 su tekstu "cia buvo klaida"
  *
- * 23. paskaityti kaip veikia revert ir pabandyti parevertinti kazkuri matomo stiliaus commit
+ * 24. paskaityti kaip veikia revert ir pabandyti parevertinti kazkuri matomo stiliaus commit
  *
  *
  */
