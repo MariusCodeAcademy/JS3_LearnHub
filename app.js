@@ -11,3 +11,6 @@ getTime();
 // create el
 const h4 = document.createElement("h4");
 h4.textContent = getTime();
+
+// dedam i html
+document.body.append(h4);
