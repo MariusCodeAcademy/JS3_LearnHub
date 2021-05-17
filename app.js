@@ -6,11 +6,16 @@ function getTime() {
 
   return dataString + " " + timeString;
 }
-getTime();
 
 // create el
 const h4 = document.createElement("h4");
+h4.id = "time";
 h4.textContent = getTime();
 
 // dedam i html
 document.body.append(h4);
+const timeEl = document.getElementById("time");
+function clock() {
+  setInterval(() => (timeEl.textContent = getTime()), 1000);
+}
+clock();
